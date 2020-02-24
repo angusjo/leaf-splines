@@ -1,7 +1,8 @@
 # gen 2 nissan leaf motor coupler
 
 creating a coupler to interface with the gen 2 nissan leaf motor
-mates to a rotex gs missalighnt coupler via bolt pattern 
+- mates to a rotex gs missalinment coupler 
+
 
 prototype splines printed with fiber re-enforced nylon
 
