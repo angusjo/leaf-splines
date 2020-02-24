@@ -7,4 +7,5 @@ creating a coupler to interface with the gen 2 nissan leaf motor
 splines test cutted in steel(?) from openinverter forum member via wired edm 
 https://openinverter.org/forum/viewtopic.php?f=11&t=457&start=20#p6432
 
-update: 2/22/2020 bolt based coupler (untested)
+update: 2/22/2020 bolt based coupler with increased spline id
+- 1in 3d print fit appers correct
