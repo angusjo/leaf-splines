@@ -10,4 +10,4 @@ splines tested via a wire edm cut steel(?)disk
 https://openinverter.org/forum/viewtopic.php?f=11&t=457&start=20#p6432
 
 update: 2/22/2020 bolt based coupler with increased spline id
-- based off a 1in 3d print, spline fit appers correct
+- based off a 1in 3d print, spline fit appers correct (rotexleaf)
